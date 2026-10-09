@@ -9,7 +9,6 @@ class ClassName:
         # Instance method
         return something
 
-
 myObj = ClassName(parameters)
 print(myObj.attribute)
 resultFromMethod = myObj.method_name()
